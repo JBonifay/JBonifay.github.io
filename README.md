@@ -2,6 +2,10 @@
 
 # Chirpy Starter
 
+```shell
+bundle exec jekyll s
+```
+
 [Blog address](https://jbonifay.github.io/)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
