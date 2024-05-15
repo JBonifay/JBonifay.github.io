@@ -1,4 +1,4 @@
-[![](https://jbonifay.github.io/)]
+[![Blog](https://jbonifay.github.io/)]
 
 # Chirpy Starter
 
